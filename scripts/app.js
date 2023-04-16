@@ -1,4 +1,4 @@
-// DAY 1 TASK 1 OF JS 6 april
+// DAY 1 assigment OF JS 6 april
 
 
 //  alert('Hey people')
@@ -33,17 +33,7 @@
 // let data3= data + " " + data1;
 // console.log(data3)
 
-// day 2 java task
 
-alert("welcom in zakat calculation")
-
-var zakatPercentage = 0.025;
-
-var userInput = +prompt("Enter Your Amount");
-
-var result = zakatPercentage  * userInput ;
-
-alert("Your Zakat Value is " + result);
 
 
 
