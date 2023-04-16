@@ -10,32 +10,32 @@
 // Finally, display the calculated fitrah amount using an alert message.
 
 
-//  alert("welcom in fitrah calculation")
+ alert("welcom in fitrah calculation")
 
-//   var familyMembers = prompt("How Many Members In Your Family");
+  var familyMembers = prompt("How Many Members In Your Family");
 
-//  var user = prompt(" Enter Which Method Do You Want For Fitrah;  Wheat, Date Fruit, Hunger , Raisin");
+ var user = prompt(" Enter Which Method Do You Want For Fitrah;  Wheat, Date Fruit, Hunger , Raisin");
 
-//  if (user == "Wheat" || user == "wheat" ) 
-//  {
-//   var method = 250*familyMembers;
-//   alert("Your Fitrah Amount Is " +method);
-//  }
-// else if (user == "Datefruit" || user == "datefruit" ) {
-//   var method = 2100*familyMembers;
-//   alert("Your Fitrah Amount Is " +method);
-// }
-// else if (user == "Hunger" || user == "hunger" ) {
-//   var method = 450*familyMembers;
-//   alert("Your Fitrah Amount Is " +method);
-// }
-// else if (user == "Raisin" || user == "raisin" ) {
-//   var method = 2800*familyMembers;
-//   alert("Your Fitrah Amount Is " +method);
-// }
-// else {
-//   alert("You Did Not Choose Anything");
-// }
+ if (user == "Wheat" || user == "wheat" ) 
+ {
+  var method = 250*familyMembers;
+  alert("Your Fitrah Amount Is " +method);
+ }
+else if (user == "Datefruit" || user == "datefruit" ) {
+  var method = 2100*familyMembers;
+  alert("Your Fitrah Amount Is " +method);
+}
+else if (user == "Hunger" || user == "hunger" ) {
+  var method = 450*familyMembers;
+  alert("Your Fitrah Amount Is " +method);
+}
+else if (user == "Raisin" || user == "raisin" ) {
+  var method = 2800*familyMembers;
+  alert("Your Fitrah Amount Is " +method);
+}
+else {
+  alert("You Did Not Choose Anything");
+}
 
 
 
@@ -189,6 +189,7 @@
 // var WorldCupPlayers = ['babarAzam','haris','afridi','naseemShah','shahid','imran','bilal','babarAli','raouf','shahid','navab','ali','hassan','hasnain','arif'] 
 
 // var finalPlayers = ['babarAzam','haris','afridi','naseemShah','shahid','imran','babarAli','rouf','shahid','navab','ali']
+
 
 // console.log(WorldCupPlayers)
 // console.log(finalPlayers)
